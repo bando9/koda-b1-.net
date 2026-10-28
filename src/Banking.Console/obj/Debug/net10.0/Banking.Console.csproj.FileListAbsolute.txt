@@ -1,0 +1,14 @@
+E:\code\koda-projects\day15-dotnet\dotnet-first\src\Banking.Console\bin\Debug\net10.0\Banking.Console.exe
+E:\code\koda-projects\day15-dotnet\dotnet-first\src\Banking.Console\bin\Debug\net10.0\Banking.Console.deps.json
+E:\code\koda-projects\day15-dotnet\dotnet-first\src\Banking.Console\bin\Debug\net10.0\Banking.Console.runtimeconfig.json
+E:\code\koda-projects\day15-dotnet\dotnet-first\src\Banking.Console\bin\Debug\net10.0\Banking.Console.dll
+E:\code\koda-projects\day15-dotnet\dotnet-first\src\Banking.Console\bin\Debug\net10.0\Banking.Console.pdb
+E:\code\koda-projects\day15-dotnet\dotnet-first\src\Banking.Console\obj\Debug\net10.0\Banking.Console.GeneratedMSBuildEditorConfig.editorconfig
+E:\code\koda-projects\day15-dotnet\dotnet-first\src\Banking.Console\obj\Debug\net10.0\Banking.Console.AssemblyInfoInputs.cache
+E:\code\koda-projects\day15-dotnet\dotnet-first\src\Banking.Console\obj\Debug\net10.0\Banking.Console.AssemblyInfo.cs
+E:\code\koda-projects\day15-dotnet\dotnet-first\src\Banking.Console\obj\Debug\net10.0\Banking.Console.csproj.CoreCompileInputs.cache
+E:\code\koda-projects\day15-dotnet\dotnet-first\src\Banking.Console\obj\Debug\net10.0\Banking.Console.dll
+E:\code\koda-projects\day15-dotnet\dotnet-first\src\Banking.Console\obj\Debug\net10.0\refint\Banking.Console.dll
+E:\code\koda-projects\day15-dotnet\dotnet-first\src\Banking.Console\obj\Debug\net10.0\Banking.Console.pdb
+E:\code\koda-projects\day15-dotnet\dotnet-first\src\Banking.Console\obj\Debug\net10.0\Banking.Console.genruntimeconfig.cache
+E:\code\koda-projects\day15-dotnet\dotnet-first\src\Banking.Console\obj\Debug\net10.0\ref\Banking.Console.dll
